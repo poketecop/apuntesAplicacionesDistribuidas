@@ -18,5 +18,9 @@
 
 ### Puerto por defecto: 1099
 ### Generar stubs y skeletons: rmic
-### [Esquema](rmiSchema.png)
+![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/66ed94da-4397-47c6-bdcb-5da7fefb7aed)
+
+## OSI vs Capas de internet
+![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/c0b0a636-6118-4704-a048-6faad5b5f714)
+
 
