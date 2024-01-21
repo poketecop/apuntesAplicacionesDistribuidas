@@ -34,6 +34,12 @@
 
 ## Clase Socket para cliente, clase ServerSocket para servidor
 
+## SMTP
+
+### Esquema sesión
+![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/632dc85b-cbcc-4a04-b64c-4ac89515c851)
+
+
 ## Corba
 
 ### Grafo de nombres: concatenar letras del camino que lleva al objeto, número de caminos = número de nombres
