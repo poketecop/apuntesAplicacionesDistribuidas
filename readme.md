@@ -18,9 +18,24 @@
 
 ### Puerto por defecto: 1099
 ### Generar stubs y skeletons: rmic
+### Generar implementaciones: javac
 ![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/66ed94da-4397-47c6-bdcb-5da7fefb7aed)
 
 ## OSI vs Capas de internet
 ![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/c0b0a636-6118-4704-a048-6faad5b5f714)
+
+## Probabilidad fallo distribuido
+
+### Servicio disponible (1-p)^n
+
+### Servicio no disponible 1 - (1-p)^n
+
+### Fallo simultáneo: p^n
+
+## Clase Socket para cliente, clase ServerSocket para servidor
+
+## Corba
+
+### Grafo de nombres: concatenar letras del camino que lleva al objeto, número de caminos = número de nombres
 
 
