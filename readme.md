@@ -38,4 +38,34 @@
 
 ### Grafo de nombres: concatenar letras del camino que lleva al objeto, número de caminos = número de nombres
 
+## Protocolos
+
+### Basados en texto: HTTP, SMTP, POP3, IMAP, FTP
+
+### Basados en objetos: RMI, CORBA
+
+### No orientados a conexión: UDP
+
+### Orientados a conexión: TCP
+
+### Clases: Direcciones de internet protocolos TCP y coh: InetAddress
+
+## Paradigmas
+
+### Escalabilidad: Agentes móviles más escalable que cliente-servidor
+
+### Abstracción: LLamada a procedimienos remotos = llamada a métodos remotos
+
+## Sockets
+
+### Servidor: ServerSocket, Socket, DatagramSocket
+### Cliente: Socket, DatagramSocket
+
+### Métodos:
+
+#### Cliente y Servidor, Lectura/Escritura: InputStream/OutputStream FIJARSE EN LA CLASE, ej: ServerSocket NO se usa en el cliente
+
+#### Servidor: esperar conexión: accept(), servidorUDP: new DatagramSocket(puerto?), paquete UDP: new DatagramPacket(byte[] buffer, int length)
+
+
 
