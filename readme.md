@@ -18,5 +18,5 @@
 
 ### Puerto por defecto: 1099
 ### Generar stubs y skeletons: rmic
-### [Esquema](rmiSchema.png)
+### ![Esquema](https://github.com/poketecop/apuntesAplicacionesDistribuidas/blob/main/rmiSchema.png?raw=true)
 
