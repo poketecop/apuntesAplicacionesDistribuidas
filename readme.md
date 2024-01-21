@@ -17,4 +17,6 @@
 ## RMI
 
 ### Puerto por defecto: 1099
+### Generar stubs y skeletons: rmic
+### [Esquema](rmiSchema.png)
 
