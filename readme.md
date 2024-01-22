@@ -20,7 +20,9 @@
 ### Generar stubs y skeletons: rmic
 ### Generar implementaciones: javac
 ### Registrar objeto remoto: rmiregistry
-### Métdos Naming: lookup (buscar), bind (registrar), rebind (reemplazar), unbind (eliminar)
+### Métodos Naming: lookup (buscar), bind (registrar), rebind (reemplazar), unbind (eliminar)
+![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/b58fddda-bc63-4598-8929-e245cbae6bb0)
+
 ![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/c9387688-6a37-4ac6-8dfd-1dbf13aa1ebf)
 
 
