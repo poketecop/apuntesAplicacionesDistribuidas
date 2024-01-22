@@ -19,6 +19,7 @@
 ### Puerto por defecto: 1099
 ### Generar stubs y skeletons: rmic
 ### Generar implementaciones: javac
+### Registrar objeto remoto: rmiregistry
 ![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/66ed94da-4397-47c6-bdcb-5da7fefb7aed)
 
 ## OSI vs Capas de internet
