@@ -90,6 +90,9 @@
 
 ### IOR: Identificador de objeto remoto, contiene: protocolo, dirección, puerto, identificador de objeto, identificador de interfaz
 
+![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/f5738041-a6cd-48ce-ad6f-946d0dabedde)
+
+
 
 
 
