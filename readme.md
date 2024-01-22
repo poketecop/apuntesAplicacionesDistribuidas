@@ -20,7 +20,8 @@
 ### Generar stubs y skeletons: rmic
 ### Generar implementaciones: javac
 ### Registrar objeto remoto: rmiregistry
-![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/66ed94da-4397-47c6-bdcb-5da7fefb7aed)
+![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/c9387688-6a37-4ac6-8dfd-1dbf13aa1ebf)
+
 
 ## OSI vs Capas de internet
 ![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/c0b0a636-6118-4704-a048-6faad5b5f714)
