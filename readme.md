@@ -61,6 +61,8 @@
 
 ### Clases: Direcciones de internet protocolos TCP y coh: InetAddress
 
+### Fallos por omisión: TCP: retransmisión, UDP: pérdida de paquetes
+
 ## Paradigmas
 
 ### Escalabilidad: Agentes móviles más escalable que cliente-servidor
@@ -77,6 +79,18 @@
 #### Cliente y Servidor, Lectura/Escritura: InputStream/OutputStream FIJARSE EN LA CLASE, ej: ServerSocket NO se usa en el cliente
 
 #### Servidor: esperar conexión: accept(), servidorUDP: new DatagramSocket(puerto?), paquete UDP: new DatagramPacket(byte[] buffer, int length)
+
+## CORBA IDL
+
+### Servicios: Trading Service (busquéda de servicios por categoría/tipo), Naming Service (busquéda de objetos por nombre), Event Service (publicación de eventos), Notification Service (suscripción a eventos), Persistent Service (almacenamiento de objetos), Externalization Service (serialización de objetos)
+
+### No se pueden definir de forma explícita clases de objetos.
+
+### Se puede implementar un objeto CORBA en un lenguaje no orientado a objetos.
+
+### IOR: Identificador de objeto remoto, contiene: protocolo, dirección, puerto, identificador de objeto, identificador de interfaz
+
+
 
 
 
