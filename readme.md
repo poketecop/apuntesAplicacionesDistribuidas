@@ -92,6 +92,7 @@
 
 ![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/f5738041-a6cd-48ce-ad6f-946d0dabedde)
 
+![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/4c88db25-d5cc-46c3-ba86-3c39d8ccbd54)
 
 
 
