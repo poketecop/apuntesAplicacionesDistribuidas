@@ -63,6 +63,8 @@
 
 ### Fallos por omisión: TCP: retransmisión, UDP: pérdida de paquetes
 
+### Puertos: DNS: 53 (TCP/UDP), HTTP: 80, HTTPS: 443, SMTP: 25, POP3: 110, IMAP: 143, FTP: 21
+
 ## Paradigmas
 
 ### Escalabilidad: Agentes móviles más escalable que cliente-servidor
@@ -90,9 +92,23 @@
 
 ### IOR: Identificador de objeto remoto, contiene: protocolo, dirección, puerto, identificador de objeto, identificador de interfaz
 
+### Palabras reservadas: interface, module, struct, enum, union, exception, typedef, const, native, valuety
+
 ![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/f5738041-a6cd-48ce-ad6f-946d0dabedde)
 
 ![image](https://github.com/poketecop/apuntesAplicacionesDistribuidas/assets/65861838/4c88db25-d5cc-46c3-ba86-3c39d8ccbd54)
+
+## SOAP
+
+### Estilo de **representación**: RPC, Documento
+
+### types: definición de tipos de datos, message: definición de mensajes, portType: definición de operaciones, binding: definición de protocolo de comunicación, service: definición de servicio
+
+### Cabecera: WS-secuity
+
+## SOA
+
+### Service broker: búsqueda de servicios
 
 
 
